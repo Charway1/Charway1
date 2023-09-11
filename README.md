@@ -1,3 +1,4 @@
+![logo](https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02)
 <h1 align="center">Hi 👋, I'm MIchael Wayoe</h1>
 <h3 align="center">An aspiring software developer from Ghana</h3>
 
